@@ -68,7 +68,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Girish019/url-auto-delete-shortener-bot-to-alexa)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Girish019/url-auto-delete-shortener-bot-to-alexaa)
 
 <details><summary>Deploy To VPS</summary>
 <p>
